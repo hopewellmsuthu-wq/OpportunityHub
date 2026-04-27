@@ -1,0 +1,14 @@
+{
+  "name": "Mzuzile Msuthu",
+  "email": "example@gmail.com",
+  "phone": "0735263729",
+  "skills": "Sales, Marketing",
+  "experience": "Sales Assistant at Studio88",
+  "education": {
+    "highSchool": "ABC High",
+    "highYear": "2020",
+    "institution": "University",
+    "qualification": "BCom",
+    "year": "2023"
+  }
+}
